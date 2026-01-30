@@ -13,7 +13,7 @@ noun2 = input("Enter a noun. ")
 verb1 = input("Enter a verb. ")
 verb2 = input("Enter another verb. ")
   #Print the story with the user supplied words.
-story = ("One day, a " + adjective1 + " " + animal + " escaped from the zoo! It was very " + adjective2 + " and began to " + verb1 + ". The " + noun2 + " came to " + verb2 + " the " + animal + " before returning it to the zoo.)
+story = ("One day, a " + adjective1 + " " + animal + " escaped from the zoo! It was very " + adjective2 + " and began to " + verb1 + ". The " + noun2 + " came to " + verb2 + " the " + animal + " before returning it to the zoo.")
 
 print("Here is the story for you!")
 print(story)
