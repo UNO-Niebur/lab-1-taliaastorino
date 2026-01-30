@@ -6,7 +6,7 @@
 def main():
   print("First Program")
   
-input("Hello!")
+print("Hello!")
   #Ask for the user's name
 name = input("What is your name?")
   #Use the user's name in the program.
